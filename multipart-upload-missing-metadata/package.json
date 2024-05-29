@@ -1,0 +1,10 @@
+{
+	"name": "multipart-upload-missing-metadata",
+	"scripts": {
+		"dev": "wrangler pages dev",
+		"deploy": "wrangler pages deploy"
+	},
+	"devDependencies": {
+		"wrangler": "3.57.2"
+	}
+}
